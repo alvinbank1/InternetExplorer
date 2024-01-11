@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\bin\Debug\Run Internet Explorer.exe.config
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\bin\Debug\Run Internet Explorer.exe
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\bin\Debug\Run Internet Explorer.pdb
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\obj\Debug\Run Internet Explorer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\obj\Debug\Run_Internet_Explorer.Form1.resources
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\obj\Debug\Run_Internet_Explorer.Properties.Resources.resources
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\obj\Debug\Run Internet Explorer.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\obj\Debug\Run Internet Explorer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\obj\Debug\Run Internet Explorer.exe
+C:\Users\admin\source\repos\Run Internet Explorer\Run Internet Explorer\obj\Debug\Run Internet Explorer.pdb
